@@ -3,6 +3,9 @@
   position: relative;
   padding: 150px;
   padding-bottom: 0;
+  width: 100vw;
+  height: 100vh;
+
 }
 
 
@@ -13,10 +16,15 @@
 .bottom-container {
   background-color: #66BFBF;
   padding: 50px 0 20px;
+  width: 100vw;
+  height: 100vh;
+
 }
 
 .middle-container {
   margin: 100px 0;
+  width: 100vw;
+  height: 100vh;
 }
 
 hr{
@@ -99,8 +107,8 @@ h3 {
 
 body {
   margin: 0;
-  width: 100vw;
-  height: 100vh;
+   width: 100vw;
+   height: 100vh;
   text-align: center;
   font-family: 'Merriweather', serif;
   color: #40514E;
@@ -159,3 +167,6 @@ h1 {
   background-image: linear-gradient(to bottom, #30e3cb, #2bc48d);
   text-decoration: none;
 }
+
+
+
